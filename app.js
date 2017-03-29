@@ -10,7 +10,7 @@ var port = process.env.PORT || 3000;
 
 var bookRouter = express.Router();
 
-bookRouter.route('/Books')
+bookRouter.route('/books')
     .get(function (req, res) {
         
         // Need much less code snippet to achieve the validation below
@@ -38,6 +38,16 @@ bookRouter.route('/Books')
                 res.status(500).send(err);
             else
                 res.json(books);
+        })
+    })
+
+bookRouter.route('/books/:bookId')
+    .get(function (req, res) {
+        Book.findById(req.params.bookId, function (err, book) {
+            if (err)
+                res.status(500).send(err);
+            else
+                res.json(book);
         })
     })
 
