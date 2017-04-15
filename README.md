@@ -6,7 +6,7 @@
 
 # Import sample data
 
- Sample Data [https://gist.github.com/jonathanfmills/d337dae91d75ab71ec0f]_
+ [Sample Data](https://gist.github.com/jonathanfmills/d337dae91d75ab71ec0f)
 
 - Run mongo server `docker run --name some-mongo -d -p 27017:27017  mongo`
 - Install RoboMongo Client on host and connect to mongodb on port 27017. Right click and create a db with name bookAPI
