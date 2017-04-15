@@ -1,0 +1,436 @@
+{
+	"variables": [],
+	"info": {
+		"name": "bookapi",
+		"_postman_id": "8ba86d45-5804-90b1-41ad-520b07bd9c51",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8000/api/books/58dc1b689a70f85a8e1adbc1",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dc1b689a70f85a8e1adbc1",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/",
+			"request": {
+				"url": "http://localhost:8000/api/books/",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/",
+			"request": {
+				"url": "http://localhost:8000/api/books/",
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd74031a98a125a468c139",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd74031a98a125a468c139",
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books",
+			"request": {
+				"url": "http://localhost:8000/api/books",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PATCH",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PATCH",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"read\": true\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book 123\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/",
+			"request": {
+				"url": "http://localhost:8000/api/books/",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book 123\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books",
+			"request": {
+				"url": "http://localhost:8000/api/books",
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book 123\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book 123\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book 123\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"title\": \"My new book1\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"_id\": \"58dd583b266b61210cda2ed2\",\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+			"request": {
+				"url": "http://localhost:8000/api/books/58dd583b266b61210cda2ed2",
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"__v\": 0,\n  \"read\": false\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books",
+			"request": {
+				"url": "http://localhost:8000/api/books",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"title\": \"My new book the sequenl\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books",
+			"request": {
+				"url": "http://localhost:8000/api/books",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"title\": \"My new book\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/api/books",
+			"request": {
+				"url": "http://localhost:8000/api/books",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"title\": \"My new book\",\n  \"genre\": \"Fiction\",\n  \"author\": \"Pradeep Macharla\"\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000",
+			"request": {
+				"url": "http://localhost:8000",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
